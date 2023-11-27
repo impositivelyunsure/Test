@@ -1,0 +1,49 @@
+D:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.csproj.AssemblyReference.cache
+D:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.Form1.resources
+D:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.csproj.GenerateResource.cache
+D:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.AssemblyInfoInputs.cache
+D:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.AssemblyInfo.cs
+D:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+D:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\bin\Debug\net6.0-windows\AstronomicalProcessing.exe
+D:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\bin\Debug\net6.0-windows\AstronomicalProcessing.deps.json
+D:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\bin\Debug\net6.0-windows\AstronomicalProcessing.runtimeconfig.json
+D:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\bin\Debug\net6.0-windows\AstronomicalProcessing.dll
+D:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\bin\Debug\net6.0-windows\AstronomicalProcessing.pdb
+D:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.dll
+D:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\refint\AstronomicalProcessing.dll
+D:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.pdb
+D:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.genruntimeconfig.cache
+D:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\ref\AstronomicalProcessing.dll
+E:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\bin\Debug\net6.0-windows\AstronomicalProcessing.exe
+E:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\bin\Debug\net6.0-windows\AstronomicalProcessing.deps.json
+E:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\bin\Debug\net6.0-windows\AstronomicalProcessing.runtimeconfig.json
+E:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\bin\Debug\net6.0-windows\AstronomicalProcessing.dll
+E:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\bin\Debug\net6.0-windows\AstronomicalProcessing.pdb
+E:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.Form1.resources
+E:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.csproj.GenerateResource.cache
+E:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.AssemblyInfoInputs.cache
+E:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.AssemblyInfo.cs
+E:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+E:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.dll
+E:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\refint\AstronomicalProcessing.dll
+E:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.pdb
+E:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.genruntimeconfig.cache
+E:\Semester 1 2023\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\ref\AstronomicalProcessing.dll
+D:\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\bin\Debug\net6.0-windows\AstronomicalProcessing.exe
+D:\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\bin\Debug\net6.0-windows\AstronomicalProcessing.deps.json
+D:\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\bin\Debug\net6.0-windows\AstronomicalProcessing.runtimeconfig.json
+D:\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\bin\Debug\net6.0-windows\AstronomicalProcessing.dll
+D:\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\bin\Debug\net6.0-windows\AstronomicalProcessing.pdb
+D:\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.Form1.resources
+D:\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.csproj.GenerateResource.cache
+D:\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.AssemblyInfoInputs.cache
+D:\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.AssemblyInfo.cs
+D:\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+D:\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.dll
+D:\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\refint\AstronomicalProcessing.dll
+D:\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.pdb
+D:\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\AstronomicalProcessing.genruntimeconfig.cache
+D:\Cluster - C Sharp One\Assessments\Assessment Task Three - Sprint 1 & 2\AstronomicalProcessing\obj\Debug\net6.0-windows\ref\AstronomicalProcessing.dll
